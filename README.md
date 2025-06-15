@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://source.unsplash.com/random/1200x300/?technology,cyber,network" alt="Header Image">
+  <img src="https://static.wikia.nocookie.net/web-site/images/b/b9/Ometv.png/revision/latest?cb=20241118180004" alt="Header Image">
 </p>
 
 <h1 align="center">🌐 OmeJS – OmeTV IP Tracker in Console</h1>
