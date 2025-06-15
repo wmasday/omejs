@@ -75,7 +75,6 @@
                                         <strong>Province:</strong> ${data.state_prov}<br>
                                         <strong>City:</strong> ${data.city}<br>
                                         <strong>District:</strong> ${data.district}<br>
-                                        <strong>District:</strong> ${data.district}<br>
                                         <strong>ISP:</strong> ${data.isp}
                                     </div>
                                 `;
